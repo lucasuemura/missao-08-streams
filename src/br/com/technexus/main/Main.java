@@ -1,4 +1,7 @@
-package br.com.technexus.model;
+package br.com.technexus.main;
+
+import br.com.technexus.model.Loja;
+import br.com.technexus.model.Produto;
 
 public class Main {
     public static void main(String[] args) {
